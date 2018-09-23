@@ -1,0 +1,110 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+.texto{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  width: 400;
+
+}
+
+
+.logo img{
+  margin-top: 40px;
+  margin-left: 80px;
+}
+
+.content{
+  margin-top: 40px;
+  margin-left: 80px;
+  margin-right: 0;
+}
+
+hr {
+    display: block;
+    color: black;
+    height: 1px;
+    border: 0;
+    margin: 1em 0;
+    padding: 0;
+}
+
+h5{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  margin-top: 80px;
+  margin-left: 80px;
+}
+
+.line{
+  margin-left: 80px;
+  margin-top: 40px;
+}
+
+.line-question{
+  margin-left: 80px;
+  margin-top: 25px;
+}
+
+.compartir{
+  margin-top: 80px;
+  margin-left: 60px;
+}
+
+.pregunta h1{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 50px;
+  margin-top: 40px;
+  margin-left: 80px;
+  color: #353454;
+  opacity:.7;
+}
+
+#answer{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  margin-top: 40px;
+  margin-left: 80px;
+  color: #353454;
+  opacity:.7;
+  width: 640px;
+}
+
+.foot img{
+  position: absolute;
+right: 0px;
+bottom: 0px;
+width:420px;
+height:340px;
+}
