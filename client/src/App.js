@@ -64,6 +64,20 @@ class App extends Component {
 
           <h2 id="answer">Siendo parte del régimen de servicios profesionales estas obligado a presentar declaraciones mensuales y anuales. Para ello sólo puedes deducir los gastos e inversiones que sean indispensables para llevar a cabo tu trabajo.</h2>
 
+          </br>
+
+          <h2>Estas son las deducciones autorizadas:</h2>
+
+          <ul>
+              <li>Pago de sueldos y salarios. </li>
+              <li>Cuotas que hayas pagado como patrón al IMSS.</li>
+              <li>Arrendamiento del local que utilices para la prestación de tus servicios.</li>
+              <li>Luz y teléfono del local para tus actividades.</li>
+              <li>Papelería y artículos de escritorio.</li>
+              <li>Inversiones en activo fijo, como equipo de cómputo, de oficina, construcciones o equipo de transporte.</li>
+          </ul>
+
+
       </div>
 
       <div className="compartir">
