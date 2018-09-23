@@ -56,7 +56,7 @@ class App extends Component {
       </div>
 
       <div className="pregunta">
-          <h1 id="pregunta">¿Puedo deducir gastos personales?</h1>
+          <h1 id="pregunta">¿Qué puedo deducir en el regimen de servicios profesionales?</h1>
 
           <div className="line-question">
               <img src={require('./line-question.svg')} />
