@@ -64,7 +64,7 @@ class App extends Component {
 
           <h2 id="answer">Siendo parte del régimen de servicios profesionales estas obligado a presentar declaraciones mensuales y anuales. Para ello sólo puedes deducir los gastos e inversiones que sean indispensables para llevar a cabo tu trabajo.</h2>
 
-          </br>
+          <br>
 
           <h2>Estas son las deducciones autorizadas:</h2>
 
