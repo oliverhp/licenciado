@@ -62,7 +62,7 @@ class App extends Component {
               <img src={require('./line-question.svg')} />
           </div>
 
-          <h2 id="answer"> El monto total de las deducciones que podrán efectuar los contribuyentes. El nodo Incapacidades se deberá informar si se incluye en percepciones la clave 014 Subsidios por incapacidad o bien en deducciones la clave 006 Descuento por Incapacidad.</h2>
+          <h2 id="answer">Siendo parte del régimen de servicios profesionales estas obligado a presentar declaraciones mensuales y anuales. Para ello sólo puedes deducir los gastos e inversiones que sean indispensables para llevar a cabo tu trabajo.</h2>
 
       </div>
 
