@@ -77,6 +77,28 @@ class App extends Component {
               <li>Inversiones en activo fijo, como equipo de cómputo, de oficina, construcciones o equipo de transporte.</li>
           </ul>
 
+          <h2 id="answer">Gastos anuales:</h2>
+          <ul id="answer">
+              <li>Gastos médicos, dentales, de enfermeras y gastos hospitalarios, incluido el alquiler o compra de aparatos para rehabilitación, prótesis, análisis y estudios clínicos.</li>
+              <li>Lentes ópticos graduados hasta por 2,500 pesos.</li>
+              <li>Gastos funerarios.</li>
+              <li>Pagos por primas de seguro de gastos médicos.</li>
+              <li>Los intereses reales, efectivamente pagados en el ejercicio, por créditos hipotecarios para tu casa habitación.</li>
+              <li>Donativos.</li>
+              <li>Transporte escolar obligatorio.</li>
+              <li>Aportaciones voluntarias al fondo de retiro.</li>
+              <li>Impuestos locales por salarios.</li>
+              <li>Colegiaturas (preescolar a preparatoria).</li>
+          </ul>
+
+          <h2 id="answer">Recuerda que para que estos gastos sean admisibles deben cumplir con lo siguiente:</h2>
+          <ul id="answer">
+            <li>Contar con una factura (CFDI) expedido por el proveedor del gasto a deducir.</li>
+            <li>Que el método de pago para todos los gastos mayores a $2000 pesos sean cheque nominativo, transferencia bancaria, tarjeta de crédito, débito, de servicios o monederos electrónicos autorizados por el SAT.</li>
+            <li>Que el pago sea distribuido en el periodo al que pertenece la declaración.</li>
+            <li>Deben estar registrados en tu contabilidad.</li>
+          </ul>
+
 
       </div>
 
