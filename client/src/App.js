@@ -66,9 +66,9 @@ class App extends Component {
 
           <br></br>
 
-          <h2>Estas son las deducciones autorizadas:</h2>
+          <h2 id="answer">Estas son las deducciones autorizadas:</h2>
 
-          <ul>
+          <ul id="answer">
               <li>Pago de sueldos y salarios. </li>
               <li>Cuotas que hayas pagado como patrón al IMSS.</li>
               <li>Arrendamiento del local que utilices para la prestación de tus servicios.</li>
