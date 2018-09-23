@@ -102,9 +102,9 @@ h5{
 }
 
 .foot img{
-  position: absolute;
-right: 0px;
-bottom: 0px;
+position: absolute;
+right: 0%;
+bottom: 0%;
 width:420px;
 height:340px;
 }
