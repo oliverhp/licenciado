@@ -1,13 +1,16 @@
 {
   "name": "licenciado-server",
+  
   "version": "1.0.0",
+  
   "scripts": {
     "client": " cd client && npm run start",
     "server": "nodemon server.js",
     "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\"",
     "start": "node server.js",
-    "heroku-postbuild": "cd client && npm install && npm install --only=dev --no-shrinkwrap && npm run build"
+    "heroku-postbuild": "cd client && npm install && npm install --only=dev --no-shrinkwrap && npm run build",
   },
+
   "dependencies": {
     "express": "^4.16.2",
     "nodemon": "^1.18.4",
@@ -16,7 +19,11 @@
     "react-dom": "^16.5.2",
     "react-scripts": "1.1.5"
   },
+
   "devDependencies": {
     "concurrently": "^3.5.0"
-  }
+  },
+
+  "proxy": "http://localhost:5000/"
+
 }
