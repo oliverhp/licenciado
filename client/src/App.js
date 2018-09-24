@@ -44,6 +44,14 @@ class App extends Component {
           <div className="logo">
               <img src={require('./logo-nuevo-deducir.svg')} />
           </div>
+
+          <div>
+            <ul clasName="nav">
+                <li className="nav-element">HOME</li>
+                <li className="nav-element">PREGUNTAS</li>
+                <li className="nav-element">GLOSARIO</li>
+            </ul>
+          </div>
       </div>
 
       <div className="line">
