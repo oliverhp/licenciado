@@ -108,10 +108,6 @@ class App extends Component {
               </Button>
         </div>
 
-        <div className="foot">
-            <img src={require('./img-delight.png')} />
-        </div>
-
       </div>
 
     );
