@@ -108,3 +108,7 @@ bottom: 0%;
 width:420px;
 height:340px;
 }
+
+#bottom{
+  height: 30px; 
+}
