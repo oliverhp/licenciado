@@ -6,6 +6,7 @@ import logoDeducir from './logo-nuevo-deducir.svg';
 import lineIMG from './line-div-hk.svg';
 import ImagenFoot from './img-delight.png';
 import DivQuestion from './line-question.svg';
+import chevronRight from './chevron-right.svg';
 
 import Button from '@material-ui/core/Button';
 
@@ -109,7 +110,16 @@ class App extends Component {
         </div>
 
         <div id="bottom">
+            <h5>OTRAS PREGUNTAS RECOMENDADAS</h5>
+
+            <div id="card">
+                <h3 id="card-content">¿Cuál es el monto máximo de las deducciones personales?</h3>
+                <img src={require('./chevron-right.svg')} />
+            </div>
+
         </div>
+
+
 
       </div>
 
